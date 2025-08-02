@@ -1,0 +1,25 @@
+# Пример конфигурации для NerrikaTG
+# Скопируйте этот файл в config/nerrikatg-common.toml и настройте под свои нужды
+
+[general]
+# Токен вашего Telegram бота (получите у @BotFather)
+botToken = "1234567890:ABCdefGHIjklMNOpqrsTUVwxyz"
+
+# ID чата в Telegram (может быть отрицательным для групп)
+# Получите через https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getUpdates
+chatId = -123456789
+
+# ID топика (опционально, установите 0 для отключения)
+# Используется для форумов в Telegram
+topicId = 0
+
+# Примеры настроек:
+# 
+# Для личного чата:
+# chatId = 123456789
+# 
+# Для группы:
+# chatId = -123456789
+# 
+# Для канала:
+# chatId = -100123456789 

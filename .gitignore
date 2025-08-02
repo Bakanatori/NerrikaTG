@@ -1,0 +1,56 @@
+# Minecraft Forge / Gradle
+build/
+.gradle/
+bin/
+out/
+run/
+
+# IDE
+.idea/
+*.iml
+*.iws
+.vscode/
+.settings/
+.project
+.classpath
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# Java
+*.class
+*.jar
+!gradle/wrapper/gradle-wrapper.jar
+
+# Forge specific
+.cache/
+minecraft_server*.jar
+usernamecache.json
+usercache.json
+banned-*.json
+ops.json
+whitelist.json
+server.properties
+world/
+crash-reports/
+
+# Config files (keep structure but not actual configs)
+config/
+!config/.gitkeep
+
+# NerrikaTG specific data
+playtime/
+*.backup
+
+# Version control
+.git/
