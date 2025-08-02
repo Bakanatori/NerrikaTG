@@ -1,7 +1,7 @@
 # 🤖 NerrikaTG - Minecraft Telegram Bridge
 
-[![Minecraft](https://img.shields.io/badge/Minecraft-1.21.8-green.svg)](https://minecraft.net)
-[![Forge](https://img.shields.io/badge/Forge-58.0.2-orange.svg)](https://files.minecraftforge.net)
+[![Minecraft](https://img.shields.io/badge/Minecraft-1.20.1-green.svg)](https://minecraft.net)
+[![Forge](https://img.shields.io/badge/Forge-47.4.0-orange.svg)](https://files.minecraftforge.net)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 Мощный server-side мод для интеграции Minecraft сервера с Telegram каналом.
@@ -29,8 +29,8 @@
 ## 🚀 Установка
 
 ### Требования
-- Minecraft Server 1.21.8
-- Minecraft Forge 58.0.2+
+- Minecraft Server 1.20.1
+- Minecraft Forge 47.4.0+
 - Telegram Bot Token
 
 ### Шаги установки
